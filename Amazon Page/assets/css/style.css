@@ -1,0 +1,18 @@
+.immagini {
+    display: inline-block; 
+    background-color: white;
+    height: 250px;
+}
+.img1 { 
+    width: 20%;
+    margin: 1em;
+    border-radius: 20%;
+    height: 100%;
+}
+.header {
+    background-color: rgb(37, 80, 208);
+}
+.div {
+    width: 100%;
+    height: auto;
+}
